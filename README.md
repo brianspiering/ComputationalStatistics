@@ -14,6 +14,6 @@ Software
 
 There are 3 ways to use this repo:
 
-1. Launch Binder in your browser: TBD
-1. Launch Colab in your brower: TBD
+1. Launch Colab in your brower: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brianspiering/ComputationalStatistics/blob/master/1_welcome.ipynb)
+1. Launch Binder in your browser: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brianspiering/ComputationalStatistics/master)
 1. Download and run locally
